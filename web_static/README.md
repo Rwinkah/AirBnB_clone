@@ -1,1 +1,1 @@
-todays task
+Static files for airbnb project
