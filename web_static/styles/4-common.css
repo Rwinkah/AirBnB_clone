@@ -7,4 +7,13 @@ body{
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 		display: flex;
 		flex-direction: column;
+
+
+		> div.container {
+				width: 1000px;
+				margin-top: 30px;
+				margin-bottom: 30px;
+				align-self: center;
+				display: flex;
+			}
 }
